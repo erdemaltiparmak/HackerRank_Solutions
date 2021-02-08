@@ -1,0 +1,15 @@
+C:\Users\lenovo\Source\Repos\HackerRank_Solutions\JumpingontheClouds\obj\Debug\net5.0\JumpingontheClouds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Source\Repos\HackerRank_Solutions\JumpingontheClouds\obj\Debug\net5.0\JumpingontheClouds.AssemblyInfoInputs.cache
+C:\Users\lenovo\Source\Repos\HackerRank_Solutions\JumpingontheClouds\obj\Debug\net5.0\JumpingontheClouds.AssemblyInfo.cs
+C:\Users\lenovo\Source\Repos\HackerRank_Solutions\JumpingontheClouds\obj\Debug\net5.0\JumpingontheClouds.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Source\Repos\HackerRank_Solutions\JumpingontheClouds\bin\Debug\net5.0\JumpingontheClouds.exe
+C:\Users\lenovo\Source\Repos\HackerRank_Solutions\JumpingontheClouds\bin\Debug\net5.0\JumpingontheClouds.deps.json
+C:\Users\lenovo\Source\Repos\HackerRank_Solutions\JumpingontheClouds\bin\Debug\net5.0\JumpingontheClouds.runtimeconfig.json
+C:\Users\lenovo\Source\Repos\HackerRank_Solutions\JumpingontheClouds\bin\Debug\net5.0\JumpingontheClouds.runtimeconfig.dev.json
+C:\Users\lenovo\Source\Repos\HackerRank_Solutions\JumpingontheClouds\bin\Debug\net5.0\JumpingontheClouds.dll
+C:\Users\lenovo\Source\Repos\HackerRank_Solutions\JumpingontheClouds\bin\Debug\net5.0\ref\JumpingontheClouds.dll
+C:\Users\lenovo\Source\Repos\HackerRank_Solutions\JumpingontheClouds\bin\Debug\net5.0\JumpingontheClouds.pdb
+C:\Users\lenovo\Source\Repos\HackerRank_Solutions\JumpingontheClouds\obj\Debug\net5.0\JumpingontheClouds.dll
+C:\Users\lenovo\Source\Repos\HackerRank_Solutions\JumpingontheClouds\obj\Debug\net5.0\ref\JumpingontheClouds.dll
+C:\Users\lenovo\Source\Repos\HackerRank_Solutions\JumpingontheClouds\obj\Debug\net5.0\JumpingontheClouds.pdb
+C:\Users\lenovo\Source\Repos\HackerRank_Solutions\JumpingontheClouds\obj\Debug\net5.0\JumpingontheClouds.genruntimeconfig.cache
