@@ -1,5 +1,4 @@
 ﻿using System;
-
 using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.Collections;
@@ -12,7 +11,6 @@ using System.Reflection;
 using System.Runtime.Serialization;
 using System.Text.RegularExpressions;
 using System.Text;
-using System;
 
 //https://www.linkedin.com/in/erdem-alt%C4%B1parmak/
 //erdem.altiparmak@ogr.sakarya.edu.tr
